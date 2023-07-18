@@ -1,0 +1,120 @@
+Array[2023-06-19 20:04:06] - Merry Pizzas 
+URL: http://localhost/merry
+BLOG ID: 1 - ORDER ID: 5
+
+====================================================================================
+
+ERRO CRÍTICO:
+10002 | TEMPLATES: Array
+(
+    [error_id] => 20001
+    [error] => missing "From" address
+    [details] => missing "From" address in WPPizza -> Order Settings -> Emails 
+)
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM wp_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------
+Array[2023-06-19 20:06:51] - Merry Pizzas 
+URL: http://localhost/merry
+BLOG ID: 1 - ORDER ID: 6
+
+====================================================================================
+
+ERRO CRÍTICO:
+10002 | TEMPLATES: Array
+(
+    [error_id] => 20002
+    [error] => missing shop "To"  address
+    [details] => missing shop "To"  address in WPPizza -> Order Settings -> Emails
+)
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM wp_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------
+Array[2023-06-19 20:08:40] - Merry Pizzas 
+URL: http://localhost/merry
+BLOG ID: 1 - ORDER ID: 7
+
+====================================================================================
+
+ERRO CRÍTICO:
+10002 | TEMPLATES: Array
+(
+    [error_id] => 20002
+    [error] => missing shop "To"  address
+    [details] => missing shop "To"  address in WPPizza -> Order Settings -> Emails
+)
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM wp_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------
+Array[2023-07-18 19:34:30] - Merry Pizzas 
+URL: http://localhost/merry
+BLOG ID: 1 - ORDER ID: 5
+
+====================================================================================
+
+ERRO CRÍTICO:
+10002 | TEMPLATES: Array
+(
+    [error_id] => 20001
+    [error] => missing "From" address
+    [details] => missing "From" address in WPPizza -> Order Settings -> Emails 
+)
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM wp_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------
+Array[2023-07-18 19:48:26] - Merry Pizzas 
+URL: http://localhost/merry
+BLOG ID: 1 - ORDER ID: 6
+
+====================================================================================
+
+ERRO CRÍTICO:
+10002 | TEMPLATES: Array
+(
+    [error_id] => 20002
+    [error] => missing shop "To"  address
+    [details] => missing shop "To"  address in WPPizza -> Order Settings -> Emails
+)
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM wp_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------
+Array[2023-07-18 19:55:05] - Merry Pizzas 
+URL: http://localhost/merry
+BLOG ID: 1 - ORDER ID: 7
+
+====================================================================================
+
+ERRO CRÍTICO:
+10002 | TEMPLATES: Array
+(
+    [error_id] => 20002
+    [error] => missing shop "To"  address
+    [details] => missing shop "To"  address in WPPizza -> Order Settings -> Emails
+)
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM wp_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------

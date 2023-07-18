@@ -1,0 +1,49 @@
+# Translation of Themes - Rasam in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Rasam package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-13 16:20:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Rasam\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Rasam is a Creative, Modern, and Professional Restaurant WordPress Theme. The theme is perfect for Restaurants, Fast Food, Seafood restaurants, Recipes, bakeries, burgers, Coffee Shops, Pizza Shops Websites, who need an easy, attractive and effective way to promote your food related services. Checkout Pro Version https://burgerthemes.com/demo/pro/rasam/"
+msgstr "Rasam é um tema WordPress de restaurante criativo, moderno e profissional. O tema é perfeito para restaurantes, fast food, restaurantes de frutos do mar, receitas, padarias, hambúrgueres, cafeterias, sites de pizzarias, que precisam de uma maneira fácil, atraente e eficaz de promover seus serviços relacionados à alimentação. Versão Pro do Checkout https://burgerthemes.com/demo/pro/rasam/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Rasam"
+msgstr "Rasam"
+
+#: inc/customizer/customizer-pro/class-customize.php:76
+msgid "Get More Features in Rasam Pro"
+msgstr "Obtenha mais recursos no Rasam Pro"
+
+#: header.php:17
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#: functions.php:18
+msgid "Primary Menu 2"
+msgstr "Menu Primário 2"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://burgerthemes.com/rasam-free/"
+msgstr "https://burgerthemes.com/rasam-free/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://burgerthemes.com/"
+msgstr "https://burgerthemes.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "burgersoftware"
+msgstr "burgersoftware"

@@ -1,0 +1,194 @@
+/*
+Theme Name: Rasam
+Theme URI: https://burgerthemes.com/rasam-free/
+Author: burgersoftware
+Author URI: https://burgerthemes.com/
+Description: Rasam is a Creative, Modern, and Professional Restaurant WordPress Theme. The theme is perfect for Restaurants, Fast Food, Seafood restaurants, Recipes, bakeries, burgers, Coffee Shops, Pizza Shops Websites, who need an easy, attractive and effective way to promote your food related services. Checkout Pro Version https://burgerthemes.com/demo/pro/rasam/
+Template: appetizer
+Version: 1.0.6
+Tested up to: 6.2
+Requires PHP: 5.6
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: rasam
+Slug: rasam
+Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, grid-layout, portfolio, E-Commerce
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+
+
+/* Colors */
+
+:root {
+    --bs-primary:#805137;
+    --bs-primary-dark:#7f553e;
+    --bs-primary-light: #c76c3a;
+}
+
+
+/*=====  Top Recipes =====*/
+
+.toprecipes-section .product {
+    padding: 10px;
+    border: 1px dashed #c8c8c8;
+    border-radius: 4px;
+    transition: var(--bs-transition);
+}
+
+.toprecipes-section .product:hover,
+.toprecipes-section .product:focus-within {
+    border-color: var(--bs-primary);
+}
+
+.toprecipes-section .product-inner {
+    display: flex;
+    align-content: center;
+    justify-content: flex-start;
+    overflow: hidden;
+    border-radius: 4px;
+    padding: 20px;
+    position: relative;
+    z-index: 0;
+}
+
+.toprecipes-section .col-lg-4 .product-inner {
+    padding: 4px;
+}
+
+.toprecipes-section .col-lg-4 .product-inner .product-content .product-action {
+    right: 8px;
+    bottom: 2px;
+}
+
+.toprecipes-section .product-inner::before {
+    opacity: 0.12;
+}
+
+.toprecipes-section .product-inner .product-img {
+    max-width: 70px;
+    flex-shrink: 0;
+    margin: auto 20px auto 0;
+}
+
+.toprecipes-section .product-inner .product-content {
+    flex-basis: 100%;
+}
+
+.toprecipes-section .product-inner .product-content h5 {
+    margin-bottom: 0;
+}
+
+.toprecipes-section .product-inner .product-content h5 a {
+    color: var(--bs-secondary);
+    text-decoration: none;
+}
+
+.toprecipes-section .product-inner .product-content h5 a:hover,
+.toprecipes-section .product-inner .product-content h5 a:focus {
+    color: var(--bs-primary);
+}
+
+.toprecipes-section .product-inner .product-content p {
+    margin-top: 2px;
+    margin-bottom: 0;
+    line-height: 1.2;
+    color: #848484;
+}
+
+.toprecipes-section .product-inner .product-content .price {
+    line-height: 1.2;
+    font-size: 18px;
+    margin-top: 10px;
+    color: var(--bs-primary);
+}
+
+.toprecipes-section .product-inner .product-content .product-action {
+    position: absolute;
+    right: 20px;
+    bottom: 14px;
+    display: inline-block;
+    max-width: 125px;
+}
+
+.toprecipes-section .product-inner .product-content .product-action .button.add_to_cart_button {
+    max-width: 30px;
+    background-color: var(--bs-primary);
+    border: none;
+    margin-top: 0;
+    white-space: nowrap;
+    min-width: 30px;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+    overflow: hidden;
+    font-size: 13px;
+    padding: 5px 8px;
+    line-height: 1.5;
+    color: var(--bs-primary);
+}
+
+.toprecipes-section .product-inner .product-content .product-action .button.add_to_cart_button::before {
+    content: "\f07a";
+    font-family: var(--bs-font-awesome);
+    margin-right: 5px;
+    margin-left: -1px;
+    color: #fff;
+    font-weight: 600;
+    transition: var(--bs-transition);
+}
+
+.toprecipes-section .product-inner .product-content .product-action .button.add_to_cart_button:hover,
+.toprecipes-section .product-inner .product-content .product-action .button.add_to_cart_button:focus {
+    background-color: #ffffff;
+    color: #fff;
+}
+
+.toprecipes-section .product-inner .product-content .product-action .button.add_to_cart_button:hover::before,
+.toprecipes-section .product-inner .product-content .product-action .button.add_to_cart_button:focus::before {
+    color: var(--bs-primary);
+}
+
+.top-list {
+    position: relative;
+    text-align: center;
+    padding: 22px 22px 0 22px;
+    z-index: 0;
+}
+
+.top-list::before,
+.toprecipes-section .product-inner::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: var(--bs-primary);
+    z-index: -1;
+}
+
+.top-list::before {
+    opacity: .06;
+}
+
+.top-list .top-list-heading h3 {
+    font-family: var(--bs-font-title);
+    font-size: 35px;
+    margin-bottom: 8px;
+    font-weight: 500;
+}
+
+.top-list .top-list-footer {
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.top-list img {
+    display: inline-block;
+    max-height: 214px;
+}
+
+/*===== // =====*/

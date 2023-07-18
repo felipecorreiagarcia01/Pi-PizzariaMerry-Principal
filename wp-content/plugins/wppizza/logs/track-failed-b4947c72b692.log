@@ -1,0 +1,60 @@
+Array[2023-07-18 19:58:55] - Merry Pizzas 
+URL: http://localhost/merry
+BLOG ID: 1 - ORDER ID: 9
+
+====================================================================================
+
+ERRO CRÍTICO:
+10003 | EMAIL TO SHOP FAILED: Could not instantiate mail function. | Array<br />
+(<br />
+    [type] => 2<br />
+    [message] => mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()<br />
+    [file] => C:\wamp64\www\merry\wp-includes\PHPMailer\PHPMailer.php<br />
+    [line] => 877<br />
+)<br />
+ | Recipients: contato@pizzaria.com | Subject: [Merry Pizzas] - hsdjkhskjfghs  Seu pedido 18 de julho de 2023 19:58 | Headers: Array<br />
+(<br />
+    [0] =&gt; Content-Type: text/html; charset=UTF-8<br />
+    [1] =&gt; From: Merry Pizzas &lt;merrypizzas@pizzaria.com&gt;<br />
+    [2] =&gt; Reply-To: hfdhdfhdhf@gmail.com<br />
+    [3] =&gt; Cc: hfdhdfhdhf@gmail.com<br />
+    [4] =&gt; X-WPPIZZA-Version: 3.17.4<br />
+)<br />
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM wp_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+LAST PHP ERROR (*might* be related): mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() IN FILE: "C:\wamp64\www\merry\wp-includes\PHPMailer\PHPMailer.php" ON LINE: "877"
+--------------------------------------------------------------------------
+Array[2023-07-18 20:00:02] - Merry Pizzas 
+URL: http://localhost/merry
+BLOG ID: 1 - ORDER ID: 10
+
+====================================================================================
+
+ERRO CRÍTICO:
+10003 | EMAIL TO SHOP FAILED: Could not instantiate mail function. | Array<br />
+(<br />
+    [type] => 2<br />
+    [message] => mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()<br />
+    [file] => C:\wamp64\www\merry\wp-includes\PHPMailer\PHPMailer.php<br />
+    [line] => 877<br />
+)<br />
+ | Recipients: contato@pizzaria.com | Subject: [Merry Pizzas] - hsdjkhskjfghs  Seu pedido 18 de julho de 2023 20:00 | Headers: Array<br />
+(<br />
+    [0] =&gt; Content-Type: text/html; charset=UTF-8<br />
+    [1] =&gt; From: Merry Pizzas &lt;merrypizzas@pizzaria.com&gt;<br />
+    [2] =&gt; Reply-To: hfdhdfhdhf@gmail.com<br />
+    [3] =&gt; Cc: hfdhdfhdhf@gmail.com<br />
+    [4] =&gt; X-WPPIZZA-Version: 3.17.4<br />
+)<br />
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM wp_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+LAST PHP ERROR (*might* be related): mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() IN FILE: "C:\wamp64\www\merry\wp-includes\PHPMailer\PHPMailer.php" ON LINE: "877"
+--------------------------------------------------------------------------

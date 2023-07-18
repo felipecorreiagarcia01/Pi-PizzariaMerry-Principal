@@ -1,0 +1,45 @@
+[2023-07-18 22:34:32]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Could not instantiate mail function.
+        )
+
+)
+
+[2023-07-18 22:58:58]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Could not instantiate mail function.
+        )
+
+)
+
+[2023-07-18 22:58:58]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Invalid address:  (From): wordpress@localhost
+        )
+
+)
+
+[2023-07-18 23:00:04]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Could not instantiate mail function.
+        )
+
+)
+
+[2023-07-18 23:00:04]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Invalid address:  (From): wordpress@localhost
+        )
+
+)
+
