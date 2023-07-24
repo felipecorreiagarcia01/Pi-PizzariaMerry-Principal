@@ -58,3 +58,63 @@ ERRO CRÍTICO:
 WPDB LAST QUERY (*might* be related): SELECT option_value FROM wp_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
 LAST PHP ERROR (*might* be related): mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() IN FILE: "C:\wamp64\www\merry\wp-includes\PHPMailer\PHPMailer.php" ON LINE: "877"
 --------------------------------------------------------------------------
+Array[2023-07-21 13:12:34] - Merry Pizzas 
+URL: http://localhost/merry
+BLOG ID: 1 - ORDER ID: 10
+
+====================================================================================
+
+ERRO CRÍTICO:
+10002 | TEMPLATES: Array
+(
+    [error_id] => 20002
+    [error] => missing shop "To"  address
+    [details] => missing shop "To"  address in WPPizza -> Order Settings -> Emails
+)
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM wp_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------
+Array[2023-07-21 13:13:04] - Merry Pizzas 
+URL: http://localhost/merry
+BLOG ID: 1 - ORDER ID: 11
+
+====================================================================================
+
+ERRO CRÍTICO:
+10002 | TEMPLATES: Array
+(
+    [error_id] => 20002
+    [error] => missing shop "To"  address
+    [details] => missing shop "To"  address in WPPizza -> Order Settings -> Emails
+)
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM wp_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------
+Array[2023-07-21 13:14:11] - Merry Pizzas 
+URL: http://localhost/merry
+BLOG ID: 1 - ORDER ID: 12
+
+====================================================================================
+
+ERRO CRÍTICO:
+10002 | TEMPLATES: Array
+(
+    [error_id] => 20002
+    [error] => missing shop "To"  address
+    [details] => missing shop "To"  address in WPPizza -> Order Settings -> Emails
+)
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM wp_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------

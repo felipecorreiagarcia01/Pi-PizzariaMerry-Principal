@@ -118,3 +118,23 @@ ERRO CRÍTICO:
 
 WPDB LAST QUERY (*might* be related): SELECT option_value FROM wp_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
 --------------------------------------------------------------------------
+[2023-07-20 13:37:07] - Merry Pizzas 
+URL: http://localhost/merry
+BLOG ID: 1 - ORDER ID: 9
+
+====================================================================================
+
+ERRO CRÍTICO:
+10002 | TEMPLATES: Array
+(
+    [error_id] => 20002
+    [error] => missing shop "To"  address
+    [details] => missing shop "To"  address in WPPizza -> Order Settings -> Emails
+)
+
+
+
+
+
+WPDB LAST QUERY (*might* be related): SELECT option_value FROM wp_options WHERE option_name = 'wppizza_templates_emails' LIMIT 1
+--------------------------------------------------------------------------

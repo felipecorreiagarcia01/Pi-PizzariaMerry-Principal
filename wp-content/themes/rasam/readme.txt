@@ -2,10 +2,10 @@
 
 Contributors: burgersoftware
 Requires at least: 4.4
-Tested up to: 6.2
+Tested up to: 6.2.2
 Requires PHP: 5.6
-Stable tag: 1.0.6
-Version: 1.0.6
+Stable tag: 1.0.7
+Version: 1.0.7
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, grid-layout, portfolio, E-Commerce
@@ -104,6 +104,9 @@ License: Creative Commons Zero
 Clip Art & All other Images have been used in images folder, Created by Burger Software. Also they are GPL Licensed and free to use and free to redistribute further.
 
 == Changelog ==
+
+@version 1.0.7
+*  WP 6.2.2 Tested
 
 @version 1.0.6
 * WP 6.2 Tested

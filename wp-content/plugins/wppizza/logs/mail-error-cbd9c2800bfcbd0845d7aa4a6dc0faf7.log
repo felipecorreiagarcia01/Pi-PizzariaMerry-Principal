@@ -43,3 +43,48 @@
 
 )
 
+[2023-07-20 16:37:08]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Invalid address:  (From): wordpress@localhost
+        )
+
+)
+
+[2023-07-21 16:12:35]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Invalid address:  (From): wordpress@localhost
+        )
+
+)
+
+[2023-07-21 16:13:04]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Invalid address:  (From): wordpress@localhost
+        )
+
+)
+
+[2023-07-21 16:14:11]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Invalid address:  (From): wordpress@localhost
+        )
+
+)
+
+[2023-07-24 17:47:39]: Array
+(
+    [wp_mail_failed] => Array
+        (
+            [0] => Invalid address:  (From): wordpress@localhost
+        )
+
+)
+
